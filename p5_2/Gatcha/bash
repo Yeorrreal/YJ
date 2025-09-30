@@ -1,0 +1,6 @@
+git init                
+git remote add origin https://github.com/Yeorrreal/p5-sketches.git
+git branch -M main
+git add .
+git commit -m "first commit"
+git push -u origin main
